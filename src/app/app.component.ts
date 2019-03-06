@@ -5,6 +5,7 @@ import { Component } from '@angular/core';
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css']
 })
+
 export class AppComponent {
-  title = 'finansys';
+  title = 'Finan$y$ - O seu sistema contábil favorito!';
 }
